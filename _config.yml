@@ -1,0 +1,9 @@
+exclude:
+  - node_modules
+  - package-lock.json
+  - package.json
+  - .eslintrc.json
+  - eslint.config.mjs
+  - jest.config.js
+  - utils.js
+  - utils.test.js
