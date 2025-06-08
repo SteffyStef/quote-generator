@@ -7,3 +7,6 @@ exclude:
   - jest.config.js
   - utils.js
   - utils.test.js
+  - quote-builder/node_modules
+  - quote-builder/package-lock.json
+  - quote-builder/package.json
