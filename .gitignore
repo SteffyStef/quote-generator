@@ -1,0 +1,5 @@
+node_modules/
+Demos/
+*.pem
+*.docx
+quote-generator/
