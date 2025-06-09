@@ -1,0 +1,12 @@
+exclude:
+  - node_modules
+  - package-lock.json
+  - package.json
+  - .eslintrc.json
+  - eslint.config.mjs
+  - jest.config.js
+  - utils.js
+  - utils.test.js
+  - quote-builder/node_modules
+  - quote-builder/package-lock.json
+  - quote-builder/package.json
